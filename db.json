@@ -1,25 +1,21 @@
 {
   "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+                    {
+                      "id" : 0,
+                      "title": "First post!",
+                      "content" : "My first content!"
+                    }
   ],
   
-  "modifiedby" : [
-    {
-      "id": 0,
-      "content": "M loving it",
-      "username": "humpy"
-    }
-  ]
+  "comments" : [
+                    {
+                      "id": 0,
+                      "content": "Wow such content!",
+                      "username": "zero_cool"
+                    }
+                  ]
+  
+  
+  
   
 }
