@@ -1,21 +1,29 @@
-{
-  "posts":[
-                    {
-                      "id" : 0,
-                      "title": "First post!",
-                      "content" : "My first content!"
-                    }
-  ],
-  
-  "comments" : [
-                    {
-                      "id": 0,
-                      "content": "Wow such content!",
-                      "username": "zero_cool"
-                    }
-                  ]
-  
-  
-  
-  
-}
+    {
+      "myjson":[
+
+        {
+          "posts":[
+                            {
+                              "id" : 0,
+                              "title": "First post!",
+                              "content" : "My first content!"
+                            }
+          ],
+
+          "comments" : [
+                            {
+                              "id": 0,
+                              "content": "Wow such content!",
+                              "username": "zero_cool"
+                            }
+                          ]
+          
+          
+          
+          
+        }
+
+      ]
+    }
+    
+   
